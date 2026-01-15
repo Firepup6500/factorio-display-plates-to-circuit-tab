@@ -1,0 +1,9 @@
+{
+  "name": "display-plates-to-circuit-tab",
+  "version": "1.0.0",
+  "title": "Move Display Plates To Circuit Tab",
+  "author": "Firepup650",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "SchallCircuitGroup", "DisplayPlatesForked"],
+  "description": "Moves display plates to the circuit tab added by 'Schall Circuit Group'"
+}
